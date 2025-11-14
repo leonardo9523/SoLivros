@@ -1,0 +1,8 @@
+# Pastas de Build do .NET
+bin/
+obj/
+
+# Arquivos de Banco de Dados
+*.mdb
+*.ldb
+
